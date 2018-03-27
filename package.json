@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "bin": {
+    "tfe": "./lib/index.js"
+  },
+  "main": "index.js",
+  "author": "Lux",
+  "email": "boylufeng@gmail.com",
+  "license": "MIT",
+  "name": "tfe",
+  "description": "前端脚手架管理工具",
+  "dependencies": {},
+  "devDependencies": {
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "inquirer": "^5.1.0",
+    "user-home": "^2.0.0"
+  }
+}
